@@ -14,7 +14,7 @@ This is a prototype for a COVID-19 response app for Canada. It will help those w
 To take a closer look, check out the [Figma Page](https://www.figma.com/file/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=0%3A1)
 
 # Demonstration
-To see the demo in action, check out [this video](https://www.figma.com/file/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=0%3A1)
+To see the demo in action, check out [this video](https://youtu.be/XrZGz14gUds)
 
 Try it out yourself [here](https://www.figma.com/proto/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=2%3A60&viewport=457%2C53%2C0.4169851243495941&scaling=min-zoom)
 
