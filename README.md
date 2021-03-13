@@ -10,6 +10,7 @@ This is a prototype for a COVID-19 response app for Canada. It will help those w
 
 # Figma Prototype Design
 ![alt text](https://github.com/SadSoulStealer/COVID-19-Response-App/blob/main/CovidResponseAppUI.png?raw=true)
+
 To take a closer look, check out the [Figma Page](https://www.figma.com/file/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=0%3A1)
 
 # Demonstration
@@ -22,6 +23,7 @@ Try it out yourself [here](https://www.figma.com/proto/DCXrtWiipwYbtn6MTyOBkV/As
 | ------------- | ------------- |
 | Real-time updates on COVID-19 from WHO   | Separate page compiling updates from reliable news outlets and social media  |
 | Real-time tracking of COVID-19 hotspots | Create screens for Google Maps integration that uses GPS to track if you are entering or near a hotspot  |
-| Talk with a health professional if needed  | Content Cell  |
-| Contact Tracing via Bluetooth  | Content Cell  |
-| Contact Tracing via Bluetooth  | Content Cell  |
+| Talk with a health professional if needed  | Create a chat hotline where you can contact a health professional with a question about COVID-19  |
+| Functionality with Smart devices  | Create the API to connect with devices such as Google Home to provide a hands-free level of interaction with the app  |
+| Check status of friends and family | Implement contact and phone number integration so it ties you and your friends/family with that as a special ID |
+| Contact Tracing via Bluetooth  | Implement a call using Bluetooth that sends and receives the symptom results of those around you  |
