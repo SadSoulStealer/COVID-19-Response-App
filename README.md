@@ -9,7 +9,7 @@ This is a prototype for a COVID-19 response app for Canada. It will help those w
 - Request board for those who need help
 
 # Figma Prototype Design
-![alt text](https://github.com/SadSoulStealer/COVID-19-Response-App/blob/main/CovidResponseAppUI.png?raw=true)
+![alt text](https://github.com/SadSoulStealer/COVID-19-Response-App/blob/main/UpdatedCovidResponseAppUI.png?raw=true)
 
 To take a closer look, check out the [Figma Page](https://www.figma.com/file/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=0%3A1)
 
