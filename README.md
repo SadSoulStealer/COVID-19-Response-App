@@ -16,7 +16,11 @@ To take a closer look, check out the [Figma Page](https://www.figma.com/file/v4T
 # Demonstration
 To see the demo in action, check out [this video](https://youtu.be/XrZGz14gUds)
 
-Try it out yourself [here](https://www.figma.com/proto/v4TEJp4eGkUwCxQLyW4vwa/Assignment-3-HCI?node-id=2%3A60&viewport=718%2C-201%2C0.5&scaling=min-zoom&page-id=0%3A1)
+https://www.figma.com/proto/P7ke7FHxTHEFLq58r7MLwL/Assignment-1-HCI?node-id=2%3A60&scaling=min-zoom
+
+Here is the first prototype [here](https://www.figma.com/proto/P7ke7FHxTHEFLq58r7MLwL/Assignment-1-HCI?node-id=2%3A60&scaling=min-zoom)
+
+Here is our new updated prototype [here](https://www.figma.com/proto/v4TEJp4eGkUwCxQLyW4vwa/Assignment-3-HCI?node-id=2%3A60&viewport=718%2C-201%2C0.5&scaling=min-zoom&page-id=0%3A1)
 
 # Desired/Considered Features
 | Desired Functions | Possible Solutions |
