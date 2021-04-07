@@ -18,6 +18,8 @@ To see the demo in action, check out [this video](https://youtu.be/XrZGz14gUds)
 
 Here is the first prototype [here](https://www.figma.com/proto/P7ke7FHxTHEFLq58r7MLwL/Assignment-1-HCI?node-id=2%3A60&scaling=min-zoom)
 
+Here is the second prototype [here](https://www.figma.com/proto/DCXrtWiipwYbtn6MTyOBkV/Assignment-2-HCI?node-id=2%3A60&scaling=min-zoom)
+
 Here is our new updated prototype [here](https://www.figma.com/proto/v4TEJp4eGkUwCxQLyW4vwa/Assignment-3-HCI?node-id=2%3A60&viewport=718%2C-201%2C0.5&scaling=min-zoom&page-id=0%3A1)
 
 # Desired/Considered Features
